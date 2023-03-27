@@ -1,0 +1,27 @@
+{
+  "name": "tasc_project",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@prisma/client": "^4.11.0",
+    "@types/node": "18.15.5",
+    "@types/react": "18.0.28",
+    "@types/react-dom": "18.0.11",
+    "bootstrap": "^5.2.3",
+    "next": "13.2.4",
+    "react": "18.2.0",
+    "react-bootstrap": "^2.7.2",
+    "react-bootstrap-table": "^4.3.1",
+    "react-dom": "18.2.0",
+    "typescript": "5.0.2"
+  },
+  "devDependencies": {
+    "prisma": "^4.11.0"
+  }
+}
